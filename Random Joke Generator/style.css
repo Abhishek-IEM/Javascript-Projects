@@ -1,0 +1,30 @@
+* {
+  font-family: "Mulish", sans-serif;
+}
+
+.container {
+  width: 450px;
+  padding: 22px;
+  background-color: rgb(3, 141, 141);
+  color: white;
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 3%;
+}
+
+button {
+  width: 130px;
+  height: 38px;
+  background-color: rgb(246, 30, 30);
+  color: white;
+  border: none;
+  outline: line;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+img {
+  width: 20%;
+}
