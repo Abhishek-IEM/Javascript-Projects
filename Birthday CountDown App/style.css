@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #a67b5b;
+}
+
+.birthday-box{
+    padding: 50px;
+    border: 1px solid #151515;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.birthday-box h1{
+    font-size: 30px;
+    font-family: cursive;
+    color: #a67b5b;
+}
+
+hr{
+    background-color: #a67b5b;
+    color: #a67b5b;
+    margin: 10px 0px;
+}
+
+.timer{
+    font-size: 40px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
