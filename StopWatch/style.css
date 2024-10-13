@@ -1,0 +1,46 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: rgb(61, 218, 192);
+}
+
+.container {
+  text-align: center;
+  margin-left: 31%;
+  width: 450px;
+  border: 2px solid rgb(216, 19, 19);
+  padding: 22px;
+}
+
+h1{
+    color: rgb(240, 248, 255);
+    text-align: center;
+    font-size: 38px;
+}
+
+.num {
+  display: flex;
+  color: white;
+  margin-left: 5%;
+}
+
+h2{
+    font-size: 60px;
+    margin-inline: 5px;
+}
+
+button{
+    height: 35px;
+    width: 120px;
+    background-color: rgb(231, 6, 6);
+    color: white;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    margin-inline: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    border: 2px solid white;
+}
